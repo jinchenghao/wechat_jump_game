@@ -4,10 +4,8 @@
 
 [GitHub 项目地址](https://github.com/wangshub/wechat_jump_game)
 
-* QQ 群
-    * github微信跳一跳    **314659953**(已满)
-    * github微信跳一跳(2) **176740763**（满）
-    * 跳一跳 **89213434**
+感谢Github的https://github.com/wangshub
+学习了很多
 
 ### **更新日志：**
 
@@ -67,7 +65,7 @@ MacOS/Win,请使用如下操作开辟新的虚拟环境（不强调表示MacOS/W
 
 ## 工具介绍
 
-- Python
+- Python（使用Anaconda3，相关的库比较齐全）
 - 手机或模拟器
 - [ADB](https://developer.android.com/studio/releases/platform-tools.html) 驱动，可以到[这里](https://adb.clockworkmod.com/)下载
 - 相关依赖
